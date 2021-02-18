@@ -4,6 +4,9 @@ Budget Tracker is a progressive web application (PWA) that allows users to track
 
 # Example 
 
-## Check the deployed version in Heroku 
-
 ![Budget-Tracker](./public/budget.png)
+
+## Check the deployed version in Heroku 
+https://budget-tracker999.herokuapp.com/
+
+
